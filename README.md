@@ -1,4 +1,4 @@
-# cpp-calculator-for-beginner
+# basic cpp-calculator
 A command-line calculator written in C++ with basic operators and input validation.
 
 # C++ Calculator
